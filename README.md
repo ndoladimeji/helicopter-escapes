@@ -43,7 +43,7 @@ Chile |	1
 Ireland |	1
 Mexico |	1
 
-
+From the table above, France has the highest number of occurrences of helicopter escapes.
 
  
 
