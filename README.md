@@ -55,7 +55,7 @@ From the table above, France has the highest number of occurrences of helicopter
 
  
 
-The data used for this project can be found in this [table](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes) and the helper.py file [here]
+The data used for this project can be found in this [table](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes) and the helper.py file [here](https://github.com/ndoladimeji/helicopter_escapes/blob/main/helper.py)
 
 ## Credits 
 
