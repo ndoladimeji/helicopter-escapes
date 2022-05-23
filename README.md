@@ -16,6 +16,7 @@ This is a python project that uses tools like pandas, numpy and matplotlib to an
 
 
 ## RESULTS
+![image](https://user-images.githubusercontent.com/103776681/169783700-27d692b7-2c23-4479-af60-ba6114a34fb2.png)
 
 
 
