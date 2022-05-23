@@ -12,12 +12,17 @@ The title of this project is _HELICOPTER ESCAPES_. This is actually a project I 
 
 This is a python project that uses tools like pandas, numpy and matplotlib to analyze and visualize helicopter prison breaks data in a table available on Wikipedia. This project is written as a jupyter notebook. The helper.py file provided by dataquest contains some helper functions and codes. This project answers interesting questions like:
 - Nmber of helicopter escape attempts per year 
+- The year with most attempts
 - Number of occurrences per country 
 
 
-## RESULTS
+## RESULTS 
+
+
+### Number of helicopter escape attemps per year
 ![image](https://user-images.githubusercontent.com/103776681/169783700-27d692b7-2c23-4479-af60-ba6114a34fb2.png)
 
+From the figure above, the most attempts at breaking out of prison with a helicopter occured in 1986, 2001, 2007, and 2009. Each of the four years has 3 attempts.
 
 
 
