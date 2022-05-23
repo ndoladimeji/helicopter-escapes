@@ -2,7 +2,7 @@
 # HELICOPTER ESCAPES 
 
 
-The title of this project is _HELICOPTER ESCAPES_. This is actually a project I carried out under the dataquest _data analysis course_. This project was created May 19, 2022. This README.md file was created May 21, 2022. There have been multiple instances of prison escapes whereby an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico..
+The title of this project is _HELICOPTER ESCAPES_. This is actually a project I carried out under the dataquest _data analysis course_. This project was created May 19, 2022. This README.md file was created May 21, 2022. There have been multiple instances of prison escapes whereby an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico. France has recorded more helicopter escape attempts than any other country, with at least 11.[5]One of the most notable French jail breaks occurred in 1986, when the wife of bank robber Michel Vaujour studied for months to learn how to fly a helicopter. Using her newly acquired skills, she rented a white helicopter and flew low over Paris to pluck her husband off the roof of his fortress prison. Vaujour was later seriously wounded in a shootout with police, and his pilot wife was arrested.[2]
 
 
 # Date Created 
