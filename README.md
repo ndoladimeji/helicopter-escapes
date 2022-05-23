@@ -2,7 +2,7 @@
 # HELICOPTER ESCAPES 
 
 
-This _HELICOPTER ESCAPES_ project is actually a project I carried out under the dataquest _data analysis course_. This project was created May 19, 2022. This README.md file was created May 21, 2022. There have been multiple instances of prison escapes whereby an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico.
+The title of this project is _HELICOPTER ESCAPES_. This is actually a project I carried out under the dataquest _data analysis course_. This project was created May 19, 2022. This README.md file was created May 21, 2022. There have been multiple instances of prison escapes whereby an inmate escapes by means of a helicopter. One of the earliest instances was the escape of Joel David Kaplan, nicknamed "Man Fan", on August 19, 1971, from the Santa Martha Acatitla in Mexico..
 
 
 # Date Created 
