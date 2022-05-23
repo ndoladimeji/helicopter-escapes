@@ -24,6 +24,25 @@ This is a python project that uses tools like pandas, numpy and matplotlib to an
 
 From the figure above, the most attempts at breaking out of prison with a helicopter occured in 1986, 2001, 2007, and 2009. Each of the four years has 3 attempts.
 
+### Number of occurrences per country
+Country |	Number of Occurrences 
+-----|-----
+France | 15
+United States |	8
+Greece |	4
+Belgium |	4
+Canada |	4
+United Kingdom | 2
+Australia |	2
+Brazil |	2
+Italy |	1
+Puerto Rico |	1
+Netherlands |	1
+Russia |	1
+Chile |	1
+Ireland |	1
+Mexico |	1
+
 
 
  
